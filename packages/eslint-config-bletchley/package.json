@@ -4,7 +4,7 @@
   "description": "Bletchley's ESLint config, based on Airbnb's",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint .",
+    "lint": "eslint ."
   },
   "repository": {
     "type": "git",
